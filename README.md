@@ -57,4 +57,31 @@ We have two versions of the HTML template you can send to customer. The first is
 
 ### **Step 3a:** Mac Email Client Instructions
 
-- Add Steps
+- From the raw view of the HTML in Github, right-click and select
+**Save Page as**.
+
+  ![](images/mac1.png)
+
+- Give the page a sensible name and select save.
+
+  ![](images/mac2.png)
+
+- Go to your "Downloads" in Finder and open the page you just downloaded with TextEdit or any text editor you prefer.
+
+  ![](images/mac3.png)
+
+- Make your modifications to the page, and save them.
+
+  ![](images/mac4.png)
+
+- Return to finder and once again Right-Click on the mailer and select **Open With**, this time choose Safari. (This process will only work in Safari, it is NOT supported in chrome, firefox or anyother browser).
+
+  ![](images/mac5.png)
+
+- With the page open in Safari navigate to the top menu bar and select **File --> Share --> Email This Page** (Your's will look slightly different)
+
+  ![](images/mac6.png)
+
+- The mailer will open in Mail and you can send like any other E-mail.
+
+  ![](images/mac7.png)
