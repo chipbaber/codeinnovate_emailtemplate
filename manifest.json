@@ -1,0 +1,14 @@
+{
+    "workshop": {
+        "title": "Code Innovate Email Template Instructions",
+        "description": "Steps to send a high quality HTML template to cutomers.",
+        "labs": [
+            {
+                "number": "0",
+                "filename": "README.md",
+                "title": "Sending Email",
+                "description": "Copy HTML and send email. "
+            }
+        ]
+    }
+}

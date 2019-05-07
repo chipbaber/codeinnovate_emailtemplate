@@ -1,11 +1,14 @@
 # Code Innovate Email Template
 This folder contains a set of email friendly HTML Templates to be leveraged to invite folks to attend a Code Innovate event.
 
-##Getting Started
+## Getting Started
 
-###**Step 1:** Leveraging/Modifying the Template
+### **Step 1:** Access the Templates/Copy HTML
+We have two versions of the HTML template you can send to customer. The first is a base 64 version that embeds the image source as binary code in the email. The second access's imagery via url links. The base64 version would be our first choose for sending to customers.
 
-- Navigate to [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html)
+- Navigate to base64 email [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
+
+- Or Navigate to [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html)
 
 - Click on the **Raw** button to view the code.
 
