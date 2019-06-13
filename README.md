@@ -52,7 +52,7 @@ We have two versions of the HTML template you can send to customer. The first is
 
 ### **Step 2a:** Outlook Email Client Instructions
 
-- Add Steps
+- Coming soon
 
 
 ### **Step 3a:** Mac Email Client Instructions
