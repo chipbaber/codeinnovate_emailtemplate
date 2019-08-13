@@ -4,11 +4,23 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 ## Getting Started
 
 ### **Step 1:** Access the Templates/Copy HTML
-We have two versions of the HTML template you can send to customer. The first is a base 64 version that embeds the image source as binary code in the email. The second access's imagery via url links. The base64 version would be our first choose for sending to customers.
+We have two versions of each HTML template you can send to customers. The first is a base 64 version that embeds the image source as binary code in the email. The second access's imagery via url links. The base64 version would be our first choose for sending to customers.
 
-- Navigate to base64 email [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
+- If you are introducing customers to the Code Innovate program to align an event please choose the HTML template:
 
-- Or Navigate to [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html)
+  ![](images/README-d82ded6f.png)
+
+  [https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html](https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html)
+
+  The Base64 version is
+
+  [https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview_base64.html](https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview_base64.html)
+
+- If your have an event already in place and are setting up the official registration leverage and modify the template:
+
+  Navigate to base64 email [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
+
+   Or Navigate to [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html)
 
 - Click on the **Raw** button to view the code.
 
