@@ -4,7 +4,7 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 ## Getting Started
 
 ### **Step 1:** Access the Templates/Copy HTML
-We have two versions of each HTML template you can send to customers. The first is a base 64 version that embeds the image source as binary code in the email. The second access's imagery via url links. The base64 version would be our first choose for sending to customers.
+We have two versions of each HTML template you can send to customers. The first is a base 64 version that embeds the image source as binary code in the email. The second access's imagery via url links. The base64 version would be the first choose for sending to customers.
 
 - If you are introducing customers to the Code Innovate program to align an event please choose the HTML template:
 
@@ -18,9 +18,17 @@ We have two versions of each HTML template you can send to customers. The first 
 
 - If your have an event already in place and are setting up the official registration leverage and modify the template:
 
-  Navigate to base64 email [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
+   Navigate to [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html)
 
-   Or Navigate to [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html)
+  Or navigate to base64 email [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
+
+- **Post Event (INTERNAL ONLY)**- If you would like to send out the Use Case videos you have recorded of the customers giving their presentations to the Account team or other Oracle employees, leverage and modify the template:
+
+  Navigate to
+[https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/use_case.htm](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/use_case.htm)
+
+  Or navigate to base 64 email
+[https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/use_case_base64.htm](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/use_case_base64.htm)
 
 - Click on the **Raw** button to view the code.
 
