@@ -8,13 +8,13 @@ We have two versions of each HTML template you can send to customers. The first 
 
 - If you are introducing customers to the Code Innovate program to align an event please choose the HTML template:
 
-  ![](images/README-d82ded6f.png)
+  ![](images/github one pager- new version.png)
 
   [https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html](https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html)
 
   The Base64 version is
 
-  [https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview_base64.html](https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview_base64.html)
+  [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/code-innovate-mailer-base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/code-innovate-mailer-base64.html)
 
 - If your have an event already in place and are setting up the official registration leverage and modify the template:
 
