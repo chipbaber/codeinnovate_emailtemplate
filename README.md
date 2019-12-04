@@ -8,7 +8,7 @@ We have two versions of each HTML template you can send to customers. The first 
 
 - If you are introducing customers to the Code Innovate program to align an event please choose the HTML template:
 
-  ![](images/github one pager- new version.png)
+  ![](images/README-onepagernewimage.png)
 
   [https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html](https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html)
 
