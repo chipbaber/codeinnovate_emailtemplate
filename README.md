@@ -10,7 +10,6 @@ We have two versions of each HTML template you can send to customers. The first 
 
   ![](images/README-onepagernewimage.png)
 
-  [https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html](https://chipbaber.github.io/codeinnovate_emailtemplate/html/eventoverview.html)
 
   The Base64 version is
 
@@ -18,9 +17,7 @@ We have two versions of each HTML template you can send to customers. The first 
 
 - If your have an event already in place and are setting up the official registration leverage and modify the template:
 
-   Navigate to [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer.html)
-
-  Or navigate to base64 email [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
+   Navigate to  [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
 
 - **Post Event (INTERNAL ONLY)**- If you would like to send out the Use Case videos you have recorded of the customers giving their presentations to the Account team or other Oracle employees, leverage and modify the template:
 
