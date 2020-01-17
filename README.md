@@ -78,11 +78,19 @@ We have two versions of each HTML template you can send to customers. The first 
 
   ![](images/mac2.png)
 
-- Open the file in a browser (Preferably Firefox)
+- Go to your "Downloads" in Finder and open the page you just downloaded with TextEdit or any text editor you prefer.
+
+  ![](images/mac3.png)
+
+- Make your modifications to the page, and save them.
+
+  ![](images/mac4.png)
+
+- Return to finder and once again Right-Click on the html mailer file and select **Open With**, this time choose Firefox or Chrome. (Safari breaks the formatting on the page in this method.)
 
 - Press **Control-A** to select all elements on the page. Press **Control-C** to copy all elements.
 
-- Now that the page is in your clipboard, paste into the body of an email created on Outlook. Hyperlinks will still work as  they do on the html file.
+- Now that the page is in your clipboard, press **Control-V** to paste into the body of an email created on Outlook.
 
 
 ### **Step 3a:** Mac Email Client Instructions
