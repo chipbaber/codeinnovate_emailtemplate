@@ -69,7 +69,20 @@ We have two versions of each HTML template you can send to customers. The first 
 
 ### **Step 2a:** Outlook Email Client Instructions
 
-- Coming soon
+- From the raw view of the HTML in Github, right-click and select
+**Save Page as**.
+
+  ![](images/mac1.png)
+
+- Give the page a sensible name and select save.
+
+  ![](images/mac2.png)
+
+- Open the file in a browser (Preferably Firefox)
+
+- Press **Control-A** to select all elements on the page. Press **Control-C** to copy all elements.
+
+- Now that the page is in your clipboard, paste into the body of an email created on Outlook. Hyperlinks will still work as  they do on the html file.
 
 
 ### **Step 3a:** Mac Email Client Instructions
