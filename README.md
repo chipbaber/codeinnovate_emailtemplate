@@ -10,6 +10,10 @@ We have two versions of each HTML template you can send to customers. The first 
 
   ![](images/README-onepagernewimage.png)
 
+- If your are positioning _Code Innovate_ to a customer:
+
+  Navigate to  [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/code-innovate-mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/code-innovate-mailer_base64.html).
+
 - If your have an event already in place and are setting up the official registration leverage and modify the template:
 
 Navigate to  [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html).
