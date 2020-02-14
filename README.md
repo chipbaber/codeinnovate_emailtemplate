@@ -10,7 +10,7 @@ We have two versions of each HTML template you can send to customers. The first 
 
   ![](images/README-onepagernewimage.png)
 
-- If your are positioning _Code Innovate_ to a customer:
+- If your are positioning _Code Innovate_ to a customer: 
 
   Navigate to  [https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/code-innovate-mailer-base64.html](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/code-innovate-mailer-base64.html).
 
