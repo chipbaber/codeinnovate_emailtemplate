@@ -15,6 +15,7 @@ We have two versions of each HTML template you can send to customers. The first 
 
   You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/code-innovate-mailer-base64.html)
 
+
 - If your have an event already in place and are setting up the official registration [leverage and modify this template code.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html)
 
   You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/mailer_base64.html)
