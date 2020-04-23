@@ -2,8 +2,8 @@
 This folder contains a set of email friendly HTML Templates to be leveraged to invite folks to attend a Code Innovate event. Note that the following HTML files are specific to the kind of Code Innovate you are running, in person and virtual events have different assets, please use the different kinds accordingly.
 
 ## Getting Started
-### In Person Code Innovate
-#### **Step 1:** HTML files
+### **Step 1:** Access Code Innovate HTML Files
+####  In Person Code Innovate
 
 
 - If you are introducing customers to the Code Innovate program to align an event, please choose this HTML template:
@@ -28,6 +28,31 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/post_event_template_base64_6usecases.html)
 
 
+####  Virtual Code Innovate
+
+- If you are introducing customers to the Virtual Code Innovate program to align an event, please choose this HTML template:
+
+  ![](images/Virtual-Code-Innovate-one-pager.png)
+
+- If your are positioning _Virtual Code Innovate_ to a customer,
+  [leverage this template code.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/virtual-code-innovate-onepager.html)
+
+  You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/virtual-code-innovate-onepager.html)
+
+- Once you have the registration email and Slack channel ready, please choose this HTML template:
+
+  ![](images/Virtual-Code-Innovate-registration.png)
+
+- If your have an event already in place and are setting up the official registration [leverage and modify this template code.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/virtual-code-tinnovate-registration.html)
+
+  You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/virtual-code-tinnovate-registration.html)
+
+- **Post Event (INTERNAL ONLY)**- If you would like to send out the Use Case videos you have recorded of the lightning talk presentations to the Account team or other Oracle employees, [leverage and modify this template.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/post_event_template_base64_6usecases.html)
+
+You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/post_event_template_base64_6usecases.html)
+
+### **Step 2:** Download HTML Files
+
 - Click on the **Raw** button to view the code.
 
   ![](images/README-b1064f4c.png)
@@ -36,29 +61,7 @@ You can preview this template [UI at this link.](https://chipbaber.github.io/cod
 
   ![](images/README-367ebbf8.png)
 
-### Virtual Code Innovate
-- If you are introducing customers to the Virtual Code Innovate program to align an event, please choose this HTML template:
-
-  ![](images/README-onepagernewimage.png)
-
-- If your are positioning _Virtual Code Innovate_ to a customer,
-  [leverage this template code.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/code-innovate-mailer-base64.html)
-
-  You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/code-innovate-mailer-base64.html)
-
-- Once you have the registration email and Slack channel ready, please choose this HTML template:
-
-  ![](images/README-registration-email-new.png)
-
-- If your have an event already in place and are setting up the official registration [leverage and modify this template code.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/mailer_base64.html)
-
-  You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/mailer_base64.html)
-
-- **Post Event (INTERNAL ONLY)**- If you would like to send out the Use Case videos you have recorded of the lightning talk presentations to the Account team or other Oracle employees, [leverage and modify this template.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/post_event_template_base64_6usecases.html)
-
-You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/post_event_template_base64_6usecases.html)
-
-#### **Step 2:** Thunderbird Email Client Instructions
+### **Step 3a:** Thunderbird Email Client Instructions
 
 - Open Thunderbird on your local machine and click the **Write** button.
 
@@ -90,7 +93,7 @@ You can preview this template [UI at this link.](https://chipbaber.github.io/cod
 
 - Send your email.
 
-### **Step 2a:** Outlook Email Client Instructions
+### **Step 3b:** Outlook Email Client Instructions
 
 - From the raw view of the HTML in Github, right-click and select
 **Save Page as**.
@@ -116,7 +119,7 @@ You can preview this template [UI at this link.](https://chipbaber.github.io/cod
 - Now that the page is in your clipboard, press **Control-V** to paste into the body of an email created on Outlook.
 
 
-### **Step 3a:** Mac Email Client Instructions
+### **Step 3c:** Mac Email Client Instructions
 
 - From the raw view of the HTML in Github, right-click and select
 **Save Page as**.
