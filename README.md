@@ -3,7 +3,7 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 
 ## Getting Started
 ### **Step 1:** Access Code Innovate HTML Files
-####  In Person Code Innovate
+####  **In Person Code Innovate**
 
 
 - If you are introducing customers to the Code Innovate program to align an event, please choose this HTML template:
@@ -28,7 +28,7 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/post_event_template_base64_6usecases.html)
 
 
-####  Virtual Code Innovate
+####  **Virtual Code Innovate**
 
 - If you are introducing customers to the Virtual Code Innovate program to align an event, please choose this HTML template:
 
