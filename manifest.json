@@ -1,14 +1,16 @@
 {
-    "workshop": {
-        "title": "Code Innovate Email Template Instructions",
-        "description": "Steps to send a high quality HTML template to cutomers.",
-        "labs": [
-            {
-                "number": "0",
-                "filename": "README.md",
-                "title": "Sending Email",
-                "description": "Copy HTML and send email. "
-            }
-        ]
-    }
+  "tutorials": [
+      {
+        "title": "Database Cloud Services Workshop for OCI Lab Introduction",
+        "description": "Introduction to the workshop",
+        "publisheddate": "1/31/2020",
+        "filename": "README.md"
+      },
+      {
+        "title": "Lab 1: Introduction and Setup",
+        "description": "Create services and setup account for workshop",
+        "publisheddate": "1/31/2020",
+        "filename": "1.md"
+      }
+    ]
 }
