@@ -1,16 +1,10 @@
 {
   "tutorials": [
       {
-        "title": "Database Cloud Services Workshop for OCI Lab Introduction",
+        "title": "Code Innovate Email Templates",
         "description": "Introduction to the workshop",
         "publisheddate": "1/31/2020",
         "filename": "README.md"
-      },
-      {
-        "title": "Lab 1: Introduction and Setup",
-        "description": "Create services and setup account for workshop",
-        "publisheddate": "1/31/2020",
-        "filename": "1.md"
       }
     ]
 }
