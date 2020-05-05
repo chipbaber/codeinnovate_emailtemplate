@@ -23,9 +23,9 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 
   You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/virtual-code-tinnovate-registration.html)
 
-- **Post Event (INTERNAL ONLY)**- If you would like to send out the Use Case videos you have recorded of the lightning talk presentations to the Account team or other Oracle employees, [leverage and modify this template.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/post_event_template_base64_6usecases.html)
+- **Post Event (INTERNAL ONLY)**- If you would like to send out the Use Case videos you have recorded of the lightning talk presentations to the Account team or other Oracle employees, [leverage and modify this template.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/Virtual_Code_Innovate_Post_Event_HTML_Template.html)
 
-You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/post_event_template_base64_6usecases.html)
+You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/Virtual_Code_Innovate_Post_Event_HTML_Template.html)
 
 ####  **In Person Code Innovate**
 
