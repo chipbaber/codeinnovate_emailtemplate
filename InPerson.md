@@ -22,13 +22,3 @@
 - **Post Event (INTERNAL ONLY)**- If you would like to send out the Use Case videos you have recorded of the lightning talk presentations to the Account team or other Oracle employees, [leverage and modify this template.](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/post_event_template_base64_6usecases.html)
 
 You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/post_event_template_base64_6usecases.html)
-
-### **Step 2:** Download HTML Files
-
-- Click on the **Raw** button to view the code.
-
-  ![](images/README-b1064f4c.png)
-
-- Press **Control-A** to select all text. Press **Control-C** to copy all text.
-
-  ![](images/README-367ebbf8.png)
