@@ -1,10 +1,28 @@
 {
   "tutorials": [
       {
-        "title": "Code Innovate Email Templates",
-        "description": "Introduction to the workshop",
+        "title": "About",
+        "description": "Introduction to Email Templates",
         "publisheddate": "1/31/2020",
         "filename": "README.md"
+      },
+     {
+        "title": "Virtual Code Innovate Email Templates",
+        "description": "Virtual Code Innovate Email Templates",
+        "publisheddate": "1/31/2020",
+        "filename": "Virtual.md"
+      },
+       {
+        "title": "In Person Code Innovate Email Templates",
+        "description": "In Person Code Innovate Email Templates",
+        "publisheddate": "1/31/2020",
+        "filename": "InPerson.md"
+      },
+       {
+        "title": "How to Send HTML Files in Email",
+        "description": "How to Send HTML Files in Email",
+        "publisheddate": "1/31/2020",
+        "filename": "HowtoSendHTML.md"
       }
     ]
 }
