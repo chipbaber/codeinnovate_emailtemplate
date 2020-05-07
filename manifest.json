@@ -1,7 +1,7 @@
 {
   "tutorials": [
       {
-        "title": "About",
+        "title": "Getting Started",
         "description": "Introduction to Email Templates",
         "publisheddate": "1/31/2020",
         "filename": "README.md"
