@@ -10,4 +10,4 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 
   You can preview this template [UI at this link.](https://chipbaber.github.io/codeinnovate_emailtemplate/html/virtual-code-innovate-onepager.html)
 
-If you need help with sending this template, go to *How to Send HTML Files in Email* and follow the directions specific to you.
+If you need help with sending this template, go to *How to Send HTML Files in Email* found  [on this page](https://chipbaber.github.io/codeinnovate_emailtemplate/?lab=in-person-code-innovate-email-templates) and follow the directions specific to you.
