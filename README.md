@@ -5,6 +5,6 @@ This folder contains a set of email friendly HTML Templates to be leveraged to i
 
       ![](images/virtual_code_innovate_page.png)
 
-- If you are introducing customers to the Virtual Code Innovate program to align an event, please [click here](https://chipbaber.github.io/codeinnovate_emailtemplate/?lab=virtual-code-innovate-email-templates):
+- If you are introducing customers to an in person Code Innovate program to align an event, please [click here](https://chipbaber.github.io/codeinnovate_emailtemplate/?lab=in-person-code-innovate-email-templates):
 
       ![](images/in_person_code_innovate_page.png)
