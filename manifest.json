@@ -17,6 +17,12 @@
         "description": "In Person Code Innovate Email Templates",
         "publisheddate": "1/31/2020",
         "filename": "InPerson.md"
+      },
+       {
+        "title": "How to Set Up Thunderbird Client",
+        "description": "Step by Step Instructions on Downloading Thunderbird",
+        "publisheddate": "1/31/2020",
+        "filename": "Thunderbird.md"
       }
     ]
 }
