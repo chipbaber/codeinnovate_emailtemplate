@@ -42,13 +42,13 @@
 
       ![](images/README-4869fdab.png)
 
-- In your email, type in the customers name in all the locations with the placeholder text **ADD_CUSTOMER_NAME**. You should see this text in the following locations.
+- In your email, type in the customers name in all the locations with the placeholder text **Customer Name**. You should see this text in the following locations.
 
-      ![](images/README-66532a6f.png)
+      ![](images/in_person_email_changes_1.png)
 
-- **Double Click and modify the url location** in the following spots.
+- Make sure to change **Your Name** at the end as well.
 
-      ![](images/README-fa2f767e.png)
+      ![](images/in_person_email_changes_2.png)
 
 - Send your email.
 
@@ -69,7 +69,7 @@
 
 - Make your modifications to the page, and save them.
 
-      ![](images/mac4.png)
+      ![](images/in_person_email_changes_3.png)
 
 - Return to finder and once again Right-Click on the html mailer file and select **Open With**, this time choose Firefox or Chrome. (Safari breaks the formatting on the page in this method.)
 
