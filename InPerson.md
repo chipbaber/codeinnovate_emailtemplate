@@ -20,7 +20,7 @@
 
       ![](images/README-367ebbf8.png)
 
-  ### **Step 2a:** Thunderbird Email Client Instructions
+### **Step 2a:** Edit HTML in Thunderbird Email Client
 
 - Open Thunderbird on your local machine and click the **Write** button.
 
@@ -52,7 +52,7 @@
 
 - Send your email.
 
-### **Step 2b:** Outlook Email Client Instructions
+### **Step 2b:** Edit in Code Editor and Send through Thunderbird
 
 - From the raw view of the HTML in Github, right-click and select
     **Save Page as**.
@@ -71,8 +71,4 @@
 
       ![](images/in_person_email_changes_3.png)
 
-- Return to finder and once again Right-Click on the html mailer file and select **Open With**, this time choose Firefox or Chrome. (Safari breaks the formatting on the page in this method.)
-
-- Press **Control-A** to select all elements on the page. Press **Control-C** to copy all elements.
-
-- Now that the page is in your clipboard, press **Control-V** to paste into the body of an email created on Outlook.
+- Now take your HTML code and do **STEP 2a** in order to send your HTML File.
