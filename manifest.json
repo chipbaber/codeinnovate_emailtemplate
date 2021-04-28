@@ -23,6 +23,12 @@
         "description": "Step by Step Instructions on Downloading Thunderbird",
         "publisheddate": "1/31/2020",
         "filename": "Thunderbird.md"
+      },
+       {
+        "title": "Data Innovate Email Instructions",
+        "description": "Step by Step to send Data Innovate Emails",
+        "publisheddate": "4/28/2021",
+        "filename": "data-innovate_email_instructions.md"
       }
     ]
 }
