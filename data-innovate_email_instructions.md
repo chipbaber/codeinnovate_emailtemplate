@@ -2,6 +2,7 @@
 ### **Step 1:** Access Data Innovate email HTML Files
 
 - If you are introducing customers to the Virtual Code Innovate program to align an event, please choose one of the HTML templates below:
+
   ![](images/di_thumb.png)
 
 - If your are positioning _Data Innovate_ to a customer, you will first need to determine your persona. Then based on the persona pick the appropriate email to send.
@@ -48,13 +49,10 @@
 
     ![](images/README-4869fdab.png)
 
-- In your email, type in the customers name in all the locations with the placeholder text **Customer Name**. You should see this text in the following locations.
+- In your email, type in the customers name in all the locations with the placeholder text **Customer Name**. You should also add times that reflect your availability. And don't forget to put your name at the end. 
 
-    ![](images/virtual_email_changes_1.png)
+    ![](images/data-innovate-picture.png)
 
-- Make sure to change **Your Name** at the end as well.
-
-    ![](images/virtual_email_changes_2.png)
 
 - Send your email.
 
@@ -75,6 +73,6 @@
 
 - Make your modifications to the page, and save them.
 
-    ![](images/virtual_email_changes_3.png)
+    ![](images/data-innovate-picture.png)
 
 - Now take your HTML code and do **STEP 2a** in order to send your HTML File.
