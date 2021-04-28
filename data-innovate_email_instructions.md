@@ -2,6 +2,7 @@
 ### **Step 1:** Access Data Innovate email HTML Files
 
 - If you are introducing customers to the Virtual Code Innovate program to align an event, please choose one of the HTML templates below:
+
   ![](images/di_thumb.png)
 
 - If your are positioning _Data Innovate_ to a customer, you will first need to determine your persona. Then based on the persona pick the appropriate email to send.
