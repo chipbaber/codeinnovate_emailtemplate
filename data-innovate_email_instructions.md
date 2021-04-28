@@ -1,18 +1,18 @@
 ##  **Data Innovate**
 ### **Step 1:** Access Data Innovate email HTML Files
 
-- If you are introducing customers to the Virtual Data Innovate program to align an event, please choose one of the HTML templates below:
+- If you are introducing customers to the Data Innovate program to align an event, please choose one of the HTML templates below:
 
   ![](images/di_thumb.png)
 
 - If your are positioning _Data Innovate_ to a customer, you will first need to determine your persona. Then based on the persona pick the appropriate email to send.
-  For the Existing ADW customer, [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingADW.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingADW.html" target="_di">, preview the template here.</a>
+  For the Existing ADW customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingADW.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingADW.html" target="_di"> email here.</a>
 
-  For the Data Scientist, new customer, [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingLimitedDS.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingLimitedDS.html" target="_di">, preview the template here.</a>
+  For the Data Scientist, new customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingLimitedDS.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingLimitedDS.html" target="_di"> email here.</a>
 
-  For the Data Scientist, existing customer persona,  [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingNoDS.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingNoDS.html" target="_di">, preview the template here.</a>
+  For the Data Scientist, existing customer persona,  [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingNoDS.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingNoDS.html" target="_di">email here.</a>
 
-  For the new to ADW/Data Science customer, [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_NewCustomers.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di">, preview the template here.</a>
+  For the new to ADW/Data Science customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_NewCustomers.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di"> email here.</a>
 
 
 ## **Sending HTML Templates**
@@ -49,7 +49,7 @@
 
     ![](images/README-4869fdab.png)
 
-- In your email, type in the customers name in all the locations with the placeholder text **Customer Name**. You should also add times that reflect your availability. And don't forget to put your name at the end. 
+- In your email, type in the customers name in all the locations with the placeholder text **Customer Name**. You should also add times that reflect your availability. And don't forget to put your name at the end.
 
     ![](images/data-innovate-picture.png)
 
