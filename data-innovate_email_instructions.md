@@ -73,6 +73,6 @@
 
 - Make your modifications to the page, and save them.
 
-    ![](images/virtual_email_changes_3.png)
+    ![](images/data-innovate-picture.png)
 
 - Now take your HTML code and do **STEP 2a** in order to send your HTML File.
