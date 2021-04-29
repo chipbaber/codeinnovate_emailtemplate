@@ -1,20 +1,21 @@
 ##  **Data Innovate**
 ### **Step 1:** Access Data Innovate email HTML Files
 
-- If you are introducing customers to the Virtual Code Innovate program to align an event, please choose one of the HTML templates below:
+- If you are introducing customers to the Data Innovate program to align an event, please choose one of the HTML templates below:
+
   ![](images/di_thumb.png)
 
 - If your are positioning _Data Innovate_ to a customer, you will first need to determine your persona. Then based on the persona pick the appropriate email to send.
-  For the Existing ADW customer, [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingADW.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingADW.html" target="_di"> here.</a>
+  For the Existing ADW customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingADW.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingADW.html" target="_di"> email here.</a>
 
-  For the Data Scientist, new customer, [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingLimitedDS.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingLimitedDS.html" target="_di"> here.</a>
+  For the Data Scientist, new customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingLimitedDS.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingLimitedDS.html" target="_di"> email here.</a>
 
-  For the Data Scientist, existing customer persona,  [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingNoDS.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingNoDS.html" target="_di"> here.</a>
+  For the Data Scientist, existing customer persona,  [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingNoDS.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingNoDS.html" target="_di">email here.</a>
 
-  For the new to ADW/Data Science customer, [ leverage this template](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_NewCustomers.html) <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di"> here.</a>
+  For the new to ADW/Data Science customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_NewCustomers.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di"> email here.</a>
 
 
-## **Sending HTML Templates**
+## **Sending HTML Templates Using Thunderbird**
 
 ### **Step 1:** Download HTML Files
 
@@ -48,13 +49,10 @@
 
     ![](images/README-4869fdab.png)
 
-- In your email, type in the customers name in all the locations with the placeholder text **Customer Name**. You should see this text in the following locations.
+- In your email, type in the customers name in all the locations with the placeholder text **Customer Name**. You should also add times that reflect your availability. And don't forget to put your name at the end.
 
-    ![](images/virtual_email_changes_1.png)
+    ![](images/data-innovate-picture.png)
 
-- Make sure to change **Your Name** at the end as well.
-
-    ![](images/virtual_email_changes_2.png)
 
 - Send your email.
 
@@ -75,6 +73,62 @@
 
 - Make your modifications to the page, and save them.
 
-    ![](images/virtual_email_changes_3.png)
+    ![](images/data-innovate-picture.png)
 
 - Now take your HTML code and do **STEP 2a** in order to send your HTML File.
+
+## **Sending HTML Templates Using Outlook**
+
+### **Step 1:** Sending HTML Emails using Outlook on Windows 10
+
+This step will detail how-to customize the ribbon on the New Email window to include an Attach File, Insert Text Button.  
+
+  - Open Outlook and click the **New Email** on the **Home** tab.
+
+    ![](images/outlook_new_email.png)
+
+  - In the new email window, on the **Message** tab, right-click in an open space on the right-side of the ribbon and select **Customize the Ribbon...**.
+
+    ![](images/outlook_customize_ribbon.png)
+
+  - In the **Outlook Options** window, right-click on the **New Mail Message** tab and select **Add New Group**.
+
+    ![](images/outlook_add_group.png)
+
+  - A new custom group is added under the **My Templates** group.  Right-click on **New Group (Custom)** and select **Rename**.
+
+    ![](images/outlook_rename_group.png)
+
+  - Enter the desired **Display Name** and click **OK**.
+
+    ![](images/outlook_enter_group_name.png)
+
+  - The **VCI - HTML Template** group should already be selected, select the command **Attach File** and click the **Add** button in the middle.
+
+    ![](images/outlook_add_attach_file.png)
+
+  - You will now see the command **Attach File** under the the group **VCI - HTML Template**, click **OK** to return to the new email window.
+
+    ![](images/outlook_finished_options.png)
+
+  - You will now see ribbon contains the new group **VCI - HTML Template**.
+
+    ![](images/outlook_finished_ribbon.png)
+
+
+### **Step 2: Insert HTML Template into Email Body**
+
+Once the ribbon is customized, you are ready to insert an HTML Template into the body of the email.
+
+  - Click on **Attach File** in the group **VCI - HTML Template**.
+
+    ![](images/outlook_finished_ribbon.png)
+
+  - Select the desired HTML file/template, click on the **Insert** dropdown in the bottom-right and select **Insert as Text**
+
+    ![](images/outlook_select_template.png)
+
+  - Now you are ready to modify the contents of the email accordingly before you send it.
+
+    ![](images/outlook_finished_email.png)
+
