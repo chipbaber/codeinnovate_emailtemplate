@@ -15,7 +15,7 @@
   For the new to ADW/Data Science customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_NewCustomers.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di"> email here.</a>
 
 
-## **Sending HTML Templates**
+## **Sending HTML Templates Using Thunderbird**
 
 ### **Step 1:** Download HTML Files
 
@@ -77,9 +77,11 @@
 
 - Now take your HTML code and do **STEP 2a** in order to send your HTML File.
 
-### **Step 3:** Sending HTML Emails using Outlook on Windows 10
+## **Sending HTML Templates Using Outlook**
 
-This step will detail how-to customize the ribbon on the New Email window to include an Attach File, Insert Text Button.  It will then show how to insert an HTML template into the body of the email.
+### **Step 1:** Sending HTML Emails using Outlook on Windows 10
+
+This step will detail how-to customize the ribbon on the New Email window to include an Attach File, Insert Text Button.  
 
   - Open Outlook and click the **New Email** on the **Home** tab.
 
@@ -114,7 +116,11 @@ This step will detail how-to customize the ribbon on the New Email window to inc
     ![](images/outlook_finished_ribbon.png)
 
 
-  - Once the ribbon is customized, you are ready to insert an HTML Template into the body of the email. Click on **Attach File** in the group **VCI - HTML Template**.
+### **Step 2: Insert HTML Template into Email Body**
+
+Once the ribbon is customized, you are ready to insert an HTML Template into the body of the email.
+
+  - Click on **Attach File** in the group **VCI - HTML Template**.
 
     ![](images/outlook_finished_ribbon.png)
 
