@@ -1,6 +1,6 @@
-# **How-to setup Outlook on Windows 10 to send Emails using HTML Templates.
+# How-to setup Outlook on Windows 10 to send Emails using HTML Templates.
 
-## **Step 1: Customize the Send Email Ribbon 
+## **Step 1: Customize the Send Email Ribbon**
 
 This step will detail how-to customize the ribbon on the New Email window to include an Attach File, Insert Text Button.
 
