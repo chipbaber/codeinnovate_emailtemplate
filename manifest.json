@@ -18,6 +18,12 @@
         "publisheddate": "1/31/2020",
         "filename": "InPerson.md"
       },
+      {
+        "title": "How to Set Up Outlook to Send HTML Emails ",
+        "description": "Instructions for Outlook on Win10",
+        "publisheddate": "4/29/2021",
+        "filename": "outlook_win10.md"
+      },
        {
         "title": "How to Set Up Thunderbird Client",
         "description": "Step by Step Instructions on Downloading Thunderbird",
