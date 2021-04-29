@@ -37,7 +37,7 @@ This step will detail how-to customize the ribbon on the New Email window to inc
     ![](images/outlook_finished_ribbon.png)
 
 
-### **Step 2: Insert HTML Template into Email Body**
+## **Step 2: Insert HTML Template into Email Body**
 
 Once the ribbon is customized, you are ready to insert an HTML Template into the body of the email.
 
