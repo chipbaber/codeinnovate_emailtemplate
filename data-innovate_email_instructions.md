@@ -1,19 +1,13 @@
 ##  **Data Innovate**
 ### **Step 1:** Access Data Innovate email HTML Files
 
-- If you are introducing customers to the Data Innovate program to align an event, please choose one of the HTML templates below:
+- If your are positioning _Data Innovate_ to a customer, you will first need to determine your target persona. Then based on the persona pick the appropriate email to send. below is the default messaging for each persona.
 
-  ![](images/di_thumb.png)
-
-- If your are positioning _Data Innovate_ to a customer, you will first need to determine your persona. Then based on the persona pick the appropriate email to send.
-  For the Existing ADW customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingADW.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingADW.html" target="_di"> email here.</a>
-
-  For the Data Scientist, new customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingLimitedDS.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingLimitedDS.html" target="_di"> email here.</a>
-
-  For the Data Scientist, existing customer persona,  [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingNoDS.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingNoDS.html" target="_di">email here.</a>
-
-  For the new to ADW/Data Science customer, [ leverage this template,](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_NewCustomers.html) preview the <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di"> email here.</a>
-
+|  Existing ADW customer | Data Scientist (New Customer)| Data Scientist (Existing Customer)| ADW & Data Science |
+|:---:|:---:|:---:|:---:|
+|![](images/oml_email_thumb.jpg) |![](images/ds_new_thumb.jpg) | ![](images/ds_email_thumb.jpg)| ![](images/adw_DS_thumb.jpg) |
+| <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingADW.html" target="_di">Preview</a> | <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingLimitedDS.html" target="_di"> Preview </a>  | <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingNoDS.html" target="_di">Preview</a>  | <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di"> Preview </a>  |   
+| [ Get Email Code ](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingADW.html)  | [ Get Email Code ](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingLimitedDS.html)  | [ Get Email Code ](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_ExistingNoDS.html)  |  [Get Email Code](https://github.com/chipbaber/codeinnovate_emailtemplate/blob/master/html/data_innovate_NewCustomers.html) |   
 
 ## **Sending HTML Templates Using Thunderbird**
 
@@ -131,4 +125,3 @@ Once the ribbon is customized, you are ready to insert an HTML Template into the
   - Now you are ready to modify the contents of the email accordingly before you send it.
 
     ![](images/outlook_finished_email.png)
-
