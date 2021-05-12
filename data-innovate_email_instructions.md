@@ -3,7 +3,7 @@
 
 - If your are positioning _Data Innovate_ to a customer, you will first need to determine your target persona. Then based on the persona pick the appropriate email to send. below is the default messaging for each persona.
 
-|  Existing ADW customer | Data Scientist (New Customer)| Data Scientist (Existing Customer)| ADW & Data Science |
+|  Existing ADW customer | Data Scientist (New Customer)| Data Scientist (Existing Customer)| Unpaid Claim Processing |
 |:---:|:---:|:---:|:---:|
 |![](images/oml_email_thumb.jpg) |![](images/ds_new_thumb.jpg) | ![](images/ds_email_thumb.jpg)| ![](images/adw_DS_thumb.jpg) |
 | <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingADW.html" target="_di">Preview</a> | <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingLimitedDS.html" target="_di"> Preview </a>  | <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_ExistingNoDS.html" target="_di">Preview</a>  | <a href="https://chipbaber.github.io/codeinnovate_emailtemplate/html/data_innovate_NewCustomers.html" target="_di"> Preview </a>  |   
